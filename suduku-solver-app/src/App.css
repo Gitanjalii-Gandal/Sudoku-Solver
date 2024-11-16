@@ -1,0 +1,45 @@
+/* App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Feedback messages */
+.message {
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.valid-message {
+  background-color: #28a745;
+  color: white;
+}
+
+.invalid-message {
+  background-color: #dc3545;
+  color: white;
+}
+
+.solved-message {
+  background-color: #ffc107;
+  color: white;
+}
