@@ -1,5 +1,3 @@
-# Sudoku-Solver
-
 # Sudoku Solver WebApp
 
 This is a web-based Sudoku Solver built using  ReactJS. The application allows users to input Sudoku values, validate the entries, and solve the puzzle using a backtracking algorithm if the entries are valid.
